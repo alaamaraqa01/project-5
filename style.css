@@ -1,0 +1,13 @@
+span{
+  width: 100%;
+  font-size: 100px;
+  
+}
+#text-container{
+  letter-spacing: 12px; 
+  line-height: 2;
+}
+body{
+  background-color: blue;
+ 
+}
